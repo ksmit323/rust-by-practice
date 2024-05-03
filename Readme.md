@@ -144,3 +144,5 @@ fn main() {
     }
 }
 ```
+
+Command for watching: watchexec --exts rs -- "clear && rustc path/to/file/script.rs -o en/script && ./en/script"
